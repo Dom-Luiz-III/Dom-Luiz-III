@@ -84,7 +84,7 @@ Switch to [Portuguese](README_pt-br.md)
 
 <p align="center">
   <a href="https://github.com/Dom-Luiz-III">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=nord&show_icons=true&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=react&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </p>
 
