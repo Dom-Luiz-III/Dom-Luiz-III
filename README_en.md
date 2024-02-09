@@ -72,6 +72,12 @@ Switch to [Portuguese](README_pt-br.md)
 
 <p align="center">
   <a href="https://github.com/Dom-Luiz-III">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dom-Luiz-III">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dom-Luiz-III&theme=transparent" />
   </a>
   <a href="https://github.com/Dom-Luiz-III">
@@ -80,12 +86,6 @@ Switch to [Portuguese](README_pt-br.md)
   <a href="https://github.com/Dom-Luiz-III">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dom-Luiz-III&theme=transparent" />
   </a>  
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dom-Luiz-III">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=react&show_icons=true&hide_border=true&count_private=true" />
-  </a>
 </p>
 
 ---
