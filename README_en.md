@@ -29,14 +29,6 @@ Switch to [Portuguese](README_pt-br.md)
 
 ---
 
-<div align="center">
-<br><p align="center"><b>Number of Visitors</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dom-Luiz-III}/count.svg" /></p>
-<br>
-</div>
-
----
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
@@ -63,6 +55,14 @@ Switch to [Portuguese](README_pt-br.md)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+
+---
+
+<div align="center">
+<br><p align="center"><b>Number of Visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dom-Luiz-III}/count.svg" /></p>
+<br>
+</div>
 
 ---
 

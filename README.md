@@ -30,14 +30,6 @@ Switch to [English](README_en.md)
 
 ---
 
-<div align="center">
-<br><p align="centre"><b>Número de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dom-Luiz-III}/count.svg" /></p>
-<br>
-</div>
-
----
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
@@ -64,6 +56,14 @@ Switch to [English](README_en.md)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+
+---
+
+<div align="center">
+<br><p align="centre"><b>Número de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dom-Luiz-III}/count.svg" /></p>
+<br>
+</div>
 
 ---
 
