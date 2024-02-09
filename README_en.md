@@ -21,6 +21,8 @@ Switch to [Portuguese](README_pt-br.md)
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizhenriqueccarvalho@gmail.com@gmail.com)
+
 <a href="https://github.com/Dom-Luiz-III" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -49,6 +51,9 @@ Switch to [Portuguese](README_pt-br.md)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-black?style=for-the-badge&logo=pythonanywhere)
+![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)
 
 ### OS
 
