@@ -1,20 +1,19 @@
-Switch to [English](README_en.md)
+Switch to [Portuguese](README_pt-br.md)
 
-<h1 align="center">Olá! <img src="https://github.com/Dom-Luiz-III/Dom-Luiz-III/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hello! <img src="https://github.com/Dom-Luiz-III/Dom-Luiz-III/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Bem vindo a minha página do GitHub!</b>
+    <b>Welcome to my GitHub page!</b>
     <br><br>
     <i>
-        Me chamo Luiz Henrique, fiz Análise e Desenvolvimento de Sistemas no SENAI e estou em constante aprendizado. 
+        My name is Luiz Henrique, I graduated in Systems Analysis and Development from SENAI, and I am constantly learning.
         <br>
-        Atualmente estou aprendendo Django junto com banco de dados como o MySQL.
+        Currently, I am learning Django along with databases like MySQL.
         <br><br>
-        Estou disponível para a colaboração de projetos Open Source!
+        I am available for collaboration on Open Source projects!
         <br>
     </i>
 </p>
-
 
 <div align="center">
 
@@ -31,7 +30,7 @@ Switch to [English](README_en.md)
 ---
 
 <div align="center">
-<br><p align="centre"><b>Número de Visitantes</b></p>  
+<br><p align="center"><b>Number of Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dom-Luiz-III}/count.svg" /></p>
 <br>
 </div>
@@ -76,7 +75,7 @@ Switch to [English](README_en.md)
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dom-Luiz-III&theme=transparent" />
   </a>
   <a href="https://github.com/Dom-Luiz-III">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dom-Luiz-III&theme=transparent" />
+    <img src="http.github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dom-Luiz-III&theme=transparent" />
   </a>
   <a href="https://github.com/Dom-Luiz-III">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dom-Luiz-III&theme=transparent" />
