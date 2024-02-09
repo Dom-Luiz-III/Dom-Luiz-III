@@ -79,7 +79,10 @@ Switch to [Portuguese](README_pt-br.md)
   </a>
   <a href="https://github.com/Dom-Luiz-III">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dom-Luiz-III&theme=transparent" />
-  </a>    
+  </a>  
+  <a href="https://github.com/Dom-Luiz-III">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=nord&show_icons=true&hide_border=true&count_private=true" />
+  </a>   
 </p>
 
 ---
