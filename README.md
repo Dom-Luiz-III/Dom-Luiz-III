@@ -83,6 +83,12 @@ Switch to [English](README_en.md)
   </a>    
 </p>
 
+<p align="center">
+  <a href="https://github.com/Dom-Luiz-III">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=nord&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+</p>
+
 ---
 
 </details>
