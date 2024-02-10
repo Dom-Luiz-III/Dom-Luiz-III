@@ -43,9 +43,9 @@ Switch to [English](README_en.md)
 
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 ![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
@@ -53,6 +53,7 @@ Switch to [English](README_en.md)
 ![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-black?style=for-the-badge&logo=pythonanywhere)
 ![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)
+![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)
 
 ### OS
 

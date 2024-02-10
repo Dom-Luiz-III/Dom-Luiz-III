@@ -21,8 +21,6 @@ Switch to [Portuguese](README_pt-br.md)
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizhenriqueccarvalho@gmail.com@gmail.com)
-
 <a href="https://github.com/Dom-Luiz-III" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -44,9 +42,9 @@ Switch to [Portuguese](README_pt-br.md)
 
 ![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
 ![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)
+![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
@@ -54,6 +52,7 @@ Switch to [Portuguese](README_pt-br.md)
 ![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-black?style=for-the-badge&logo=pythonanywhere)
 ![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)
+![Arduino](https://img.shields.io/badge/arduino-black?style=for-the-badge&logo=arduino)
 
 ### OS
 
