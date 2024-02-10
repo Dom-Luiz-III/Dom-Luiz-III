@@ -64,7 +64,7 @@ Switch to [Portuguese](README_pt-br.md)
 ---
 
 <div align="center">
-<br><p align="center"><b>Number of Visitors</b></p>  
+<br><p align="center"><b>Number of Visits</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dom-Luiz-III}/count.svg" /></p>
 <br>
 </div>
