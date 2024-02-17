@@ -1,4 +1,4 @@
-Switch to [English](README_en.md)
+<!-- Switch to [English](README_en.md) -->
 
 <h1 align="center">Olá! <img src="https://github.com/Dom-Luiz-III/Dom-Luiz-III/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
