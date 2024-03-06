@@ -37,6 +37,7 @@
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)
 
 ### Technologies & Frameworks
@@ -47,6 +48,7 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
