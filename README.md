@@ -10,7 +10,7 @@
         <br>
         Atualmente estou aprendendo Flutter e Django junto com banco de dados como o MySQL e PostgreSQL.
         <br><br>
-        Estou disponível para a colaboração de projetos Open Source!
+        Também estou disponível para a colaboração de projetos Open Source!
         <br>
     </i>
 </p>
