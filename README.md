@@ -60,6 +60,30 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Dom-Luiz-III">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dom-Luiz-III">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dom-Luiz-III&theme=transparent" />
+  </a>
+  <a href="https://github.com/Dom-Luiz-III">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dom-Luiz-III&theme=transparent" />
+  </a>
+  <a href="https://github.com/Dom-Luiz-III">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dom-Luiz-III&theme=transparent" />
+  </a>    
+</p>
+
+---
+
+<details>
+
+---
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
@@ -92,30 +116,6 @@
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-
----
-
-<details>
-
----
-
-<p align="center">
-  <a href="https://github.com/Dom-Luiz-III">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dom-Luiz-III&theme=react&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dom-Luiz-III">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dom-Luiz-III&theme=transparent" />
-  </a>
-  <a href="https://github.com/Dom-Luiz-III">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dom-Luiz-III&theme=transparent" />
-  </a>
-  <a href="https://github.com/Dom-Luiz-III">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dom-Luiz-III&theme=transparent" />
-  </a>    
-</p>
 
 ---
 
