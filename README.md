@@ -30,6 +30,36 @@
 
 ---
 
+### Web Projects
+
+<a href="https://github.com/Dom-Luiz-III/JM_Veiculos" target="_blank">
+    <img src=https://img.shields.io/badge/gm_veiculos-black?style=for-the-badge&logo=django alt=agenclean/>
+</a>
+<br>
+<a href="https://github.com/Dom-Luiz-III/tarefanest" target="_blank">
+    <img src=https://img.shields.io/badge/tarefanest-black?style=for-the-badge&logo=django alt=agenclean/>
+</a>
+<br>
+<a href="https://github.com/Dom-Luiz-III/habilconsult-site" target="_blank">
+    <img src=https://img.shields.io/badge/habil-black?style=for-the-badge&logo=bootstrap alt=agenclean/>
+</a>
+<br>
+<a href="https://github.com/Dom-Luiz-III/Project_Invader" target="_blank">
+    <img src=https://img.shields.io/badge/invader-black?style=for-the-badge&logo=bootstrap alt=agenclean/>
+</a>
+
+### Mobile Projects
+
+<a href="https://github.com/Dom-Luiz-III/agenclean_project" target="_blank">
+    <img src=https://img.shields.io/badge/agenclean-black?style=for-the-badge&logo=flutter alt=agenclean/>
+</a>
+<br>
+<a href="https://github.com/Dom-Luiz-III/econol" target="_blank">
+    <img src=https://img.shields.io/badge/econol-black?style=for-the-badge&logo=flutter alt=agenclean/>
+</a>
+
+---
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
@@ -62,14 +92,6 @@
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-
----
-
-<div align="center">
-<br><p align="centre"><b>Número de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Dom-Luiz-III}/count.svg" /></p>
-<br>
-</div>
 
 ---
 
