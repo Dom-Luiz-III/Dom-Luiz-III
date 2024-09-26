@@ -8,7 +8,7 @@
     <i>
         Me chamo Luiz Henrique, fiz Análise e Desenvolvimento de Sistemas no SENAI e estou em constante aprendizado. 
         <br>
-        Atualmente estou aprendendo Flutter e Django junto com banco de dados como o MySQL e PostgreSQL.
+        Atualmente estou aprendendo sistemas ERPs junto com banco de dados como o MySQL e SQL Server.
         <br><br>
         Também estou disponível para a colaboração de projetos Open Source!
         <br>
